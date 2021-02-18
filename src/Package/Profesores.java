@@ -11,5 +11,13 @@ public class Profesores extends Usuario {
      */
     public Profesores() {
     }
+    
+    private Integer noEmpleado;
+    
+    public String materiasImpartidas[];
+    
+    private void actualizarCalificacion(){
+        
+    }
 
 }
