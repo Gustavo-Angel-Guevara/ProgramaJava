@@ -1,5 +1,4 @@
 package Package;
-import java.util.*;
 
 /**
  * 
@@ -11,5 +10,15 @@ public class Alumnos extends Usuario {
      */
     public Alumnos() {
     }
-
+    
+    private String matricula;
+    
+    public void consultarCalificacion(){
+        
+    }
+    
+    public void inscribirExtracurricular(){
+        
+    }
+    
 }
