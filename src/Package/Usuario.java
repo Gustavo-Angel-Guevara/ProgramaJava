@@ -18,8 +18,9 @@ public class Usuario {
 
   
     public class Caja extends Usuario {
-
+private int numCaja;
         public Caja() {
+           
         }
 
     }
