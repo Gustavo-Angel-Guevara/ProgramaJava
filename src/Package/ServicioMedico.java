@@ -12,4 +12,8 @@ public class ServicioMedico extends Usuario {
     public ServicioMedico() {
     }
 public String ClaveUnica; 
+
+public String NoSeguroSocial;
+
+
 }
