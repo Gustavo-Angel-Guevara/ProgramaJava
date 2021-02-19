@@ -14,4 +14,12 @@ public class ControlEscolar extends Usuario {
     public ControlEscolar() {
     }
 
+       private Integer noMatricula;
+    private String nombre;
+    private String especialidad;
+    private String noTelefono;
+    
+    private void Consultar(){
+
+    }
 }
