@@ -9,13 +9,16 @@ public class Profesores extends Usuario {
     /**
      * Default constructor
      */
-    public Profesores() {
     }
     
     private Integer noEmpleado;
     
     public String materiasImpartidas[];
     
+    private String correoElectrico;
+
+    private String numeroTel;
+
     private void actualizarCalificacion(){
         
     }
